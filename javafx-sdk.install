@@ -1,0 +1,3 @@
+post_install() {
+echo "Installing this package means you agree with the Oracle's Licence for JavaFX. If this isn't the case, please remove this package.";
+}
